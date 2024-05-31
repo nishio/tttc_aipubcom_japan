@@ -1,0 +1,38 @@
+arg-id,comment-id,argument
+A185001345000000001_0,185001345000000001,"Consistency in wording is important, for example, using '以下、' instead of just '以下.'"
+A185001345000000001_1,185001345000000001,It is advisable to unify the wording either as '当たって' or 'あたって'.
+A185001345000000002_0,185001345000000002,Datasets used for AI image generation should be publicly accessible for verification of the absence of CSAM (Child Sexual Abuse Material).
+A185001345000000002_1,185001345000000002,"Prior consent from creators, copyright holders, or authors should be obtained for creating datasets used in AI image generation, and continuous payment for dataset usage should be ensured."
+A185001345000000002_2,185001345000000002,"Allowing image-generating AI to operate without prior consent, unlike in other industries where consent is required, significantly undermines the interests and equal opportunities of creators, copyright holders, and authors."
+A185001345000000002_3,185001345000000002,"The unauthorized use of works may significantly reduce the motivation and creativity of future manga artists, illustrators, and animators."
+A185001345000000003_0,185001345000000003,Regulations for AI development should be established to differentiate between human and AI capabilities.
+A185001345000000003_1,185001345000000003,"AI should be considered as a tool similar to a copier, not requiring copyright protection."
+A185001345000000003_2,185001345000000003,Specific guidelines should be set for the use and publication of AI-generated content to ensure compatibility with copyright laws.
+A185001345000000003_3,185001345000000003,Clear distinctions should be made regarding when copyright can be disregarded in the case of AI-generated content.
+A185001345000000003_4,185001345000000003,Japan should implement regulations to address the complexities of AI development and copyright issues to prevent potential economic decline and job loss.
+A185001345000000004_0,185001345000000004,"AI-generated harm has already occurred in some cases, including instances of suicide overseas."
+A185001345000000004_1,185001345000000004,Unrestricted AI learning in Japan could lead to the free transfer of valuable content to others.
+A185001345000000004_2,185001345000000004,It is important to have concrete plans on how Japan can seize opportunities with AI.
+A185001345000000004_3,185001345000000004,It is necessary to consider the specific achievements and benefits of AI in the past year rather than vague future predictions.
+A185001345000000004_4,185001345000000004,Regulations in Japan should be aligned with global trends and take into account the perspectives of creators.
+A185001345000000005_0,185001345000000005,There is a need for flexible revisions in copyright law to address the issue of AI-generated images imitating an artist's style.
+A185001345000000005_1,185001345000000005,Clear guidelines should be established to differentiate between style imitation and original creative expression in AI-generated images.
+A185001345000000005_2,185001345000000005,Efforts should be made to educate both AI users and creators about copyright laws and the use of AI to prevent disputes and support creativity in Japan.
+A185001345000000005_3,185001345000000005,Creators should have the option to easily refuse the use of their work in AI training datasets to protect their copyright and moral rights.
+A185001345000000005_4,185001345000000005,Mechanisms such as setting watermarks or simple AI training refusal options should be implemented to protect the creativity of individuals in Japan.
+A185001345000000006_0,185001345000000006,"Some individuals who advocate for AI regulations label AI users as criminals, causing backlash and restrictions on AI usage."
+A185001345000000006_1,185001345000000006,It is important to educate the public about AI use and to avoid stigmatizing AI users as criminals.
+A185001345000000007_0,185001345000000007,"Expanding the interpretation of Article 30-4 by rights holders, including the media, could severely restrict large-scale language data collection for AI development."
+A185001345000000007_1,185001345000000007,It is important to consider the opinions of AI developers to avoid hindering the development of domestic AI and rendering Article 30-4 meaningless.
+A185001345000000008_0,185001345000000008,Actions permissible for humans should generally be permissible for AI as well.
+A185001345000000008_1,185001345000000008,Limiting income based on specific professions should not be justified.
+A185001345000000009_0,185001345000000009,"Restricting the learning process in AI, such as data input and processing, with copyright limitations could hinder the advancement of computer science."
+A185001345000000009_1,185001345000000009,"If AI learning and output are considered copyright infringement, AI should be legally recognized with personhood."
+A185001345000000010_0,185001345000000010,There is a need to consider promoting compensation in the market for generated AI.
+A185001345000000010_1,185001345000000010,"The current situation regarding AI seems to be influenced by Article 30-4 of the copyright law, which states that there is no need to pay copyright holders for machine learning."
+A185001345000000010_2,185001345000000010,This ongoing situation may deteriorate the well-being of creators and negatively impact the production of high-quality content.
+A185001345000000010_3,185001345000000010,"In the long run, to ensure that AI technology is beneficial to society, I believe there should be a decision to amend the law to require permission from copyright holders for AI learning."
+A185001345000000011_0,185001345000000011,Implementing technical measures to prevent the reproduction of copyrighted materials for AI learning may undermine copyright limitations
+A185001345000000011_1,185001345000000011,Using technologies like mist to hinder learning and declaring future commercialization of digital art may not fall under current copyright restrictions
+A185001345000000012_0,185001345000000012,Learning from illegal sources like pirate sites should be illegal.
+A185001345000000012_1,185001345000000012,AI developers should make the source of learning data public to prevent illegal activities.
